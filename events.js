@@ -1,23 +1,23 @@
 const timelineEvents = [
-  {num:1,date:"November 1777",title:"Articles of Confederation Adopted",description:"The Second Continental Congress adopted the Articles of Confederation as the first written constitution of the United States, creating a loose alliance of sovereign states.",significance:"Reflected fear of strong central power but proved ineffective at governing the nation."},
+  {num:1,date:"November 1777",title:"Articles of Confederation Adopted",description:"The Second Continental Congress adopted the Articles of Confederation as the first written constitution of the United States.",significance:"showed the fear of a strong central power."},
 
-  {num:2,date:"March 1781",title:"Articles Ratified",description:"All thirteen states ratified the Articles after long disputes over western land claims.",significance:"Established the first national government of the United States."},
+  {num:2,date:"March 1781",title:"Articles Ratified",description:"All thirteen states ratified the Articles after long fights over western land claims.",significance:"This Established the first national government of the United States."},
 
   {num:3,date:"September 1783",title:"Treaty of Paris",description:"Formally ended the Revolutionary War. Britain recognized U.S. independence.",significance:"Confirmed the United States as an independent nation.",imageUrl:"https://upload.wikimedia.org/wikipedia/commons/f/fe/Treaty_of_Paris_by_Benjamin_West_1783.jpg"},
 
-  {num:4,date:"1786–1787",title:"Shays' Rebellion",description:"Massachusetts farmers revolted against high taxes and debt imprisonment.",significance:"Highlighted weaknesses of the Articles of Confederation."},
+  {num:4,date:"1786–1787",title:"Shays' Rebellion",description:"Some Massachusetts farmers revolted against high taxes.",significance:"This Highlighted weaknesses of the Articles of Confederation."},
 
-  {num:5,date:"May 1787",title:"Constitutional Convention",description:"Delegates drafted an entirely new Constitution in Philadelphia.",significance:"Laid the foundation for the modern U.S. government.",imageUrl:"https://upload.wikimedia.org/wikipedia/commons/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg"},
+  {num:5,date:"May 1787",title:"Constitutional Convention",description:"Delegates drafted a new Constitution in Philadelphia.",significance:"THis Laid the foundation for the modern U.S. government.",imageUrl:"https://upload.wikimedia.org/wikipedia/commons/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg"},
 
-  {num:6,date:"July 1787",title:"Northwest Ordinance",description:"Organized the Northwest Territory and banned slavery there.",significance:"Established a model for westward expansion."},
+  {num:6,date:"July 1787",title:"Northwest Ordinance",description:"Organized the Northwest Territory and banned slavery there.",significance:"This set the model for westward expansion."},
 
-  {num:7,date:"June 1788",title:"Constitution Ratified",description:"New Hampshire became the ninth state to approve the Constitution.",significance:"Replaced the Articles with a stronger federal system."},
+  {num:7,date:"June 1788",title:"Constitution Ratified",description:"New Hampshire became the ninth state to approve the Constitution.",significance:"This officially replaced the Articles with a stronger federal system."},
 
-  {num:8,date:"April 1789",title:"Washington Inaugurated",description:"George Washington was sworn in as the first President of the United States.",significance:"Marked the beginning of the federal government under the Constitution."},
+  {num:8,date:"April 1789",title:"Washington Inaugurated",description:"George Washington was made the first President of the United States.",significance:"This marked the beginning of the federal government under the Constitution."},
 
-  {num:9,date:"December 1791",title:"Bill of Rights Ratified",description:"The first ten amendments guaranteed individual liberties.",significance:"Protected citizens’ rights and limited government power.",imageUrl:"https://1.bp.blogspot.com/-2a0G6vAMfek/WRro26RHTfI/AAAAAAAACB0/lePjWvPGGgMbP7xoXXFQTEqPYFBgUaYKACLcB/s1600/n_bill_rights.254135709_std.jpg"},
+  {num:9,date:"December 1791",title:"Bill of Rights Ratified",description:"The first ten amendments guaranteed individual liberties.",significance:"This Protected citizens’ rights and limited government power.",imageUrl:"https://1.bp.blogspot.com/-2a0G6vAMfek/WRro26RHTfI/AAAAAAAACB0/lePjWvPGGgMbP7xoXXFQTEqPYFBgUaYKACLcB/s1600/n_bill_rights.254135709_std.jpg"},
 
-  {num:10,date:"1794",title:"Whiskey Rebellion",description:"Farmers protested a federal tax on whiskey in Pennsylvania.",significance:"Demonstrated the federal government’s ability to enforce laws."},
+  {num:10,date:"1794",title:"Whiskey Rebellion",description:"Farmers protested a federal tax on whiskey in Pennsylvania.",significance:"It Demonstrated the federal government’s ability to enforce laws."},
 
   {num:11,date:"1798",title:"Alien and Sedition Acts",description:"Laws restricted immigration and limited criticism of the government.",significance:"Raised concerns about free speech and states’ rights."},
 
